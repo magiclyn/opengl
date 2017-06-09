@@ -1,0 +1,6 @@
+F:\gltestProject\t1\t1\bin\Debug\t1.exe.config
+F:\gltestProject\t1\t1\bin\Debug\t1.exe
+F:\gltestProject\t1\t1\bin\Debug\t1.pdb
+F:\gltestProject\t1\t1\obj\Debug\t1.csprojResolveAssemblyReference.cache
+F:\gltestProject\t1\t1\obj\Debug\t1.exe
+F:\gltestProject\t1\t1\obj\Debug\t1.pdb

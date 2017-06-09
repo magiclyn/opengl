@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/5/19 16:50:20。
+     1>项目“F:\gltestProject\t1\GlfwTest\GlfwTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GlfwTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GlfwTest.cpp
+         GlfwTest.cpp
+     1>c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\glfw\glfw3.h(85) : 参见“APIENTRY”的前一个定义
+       Link:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\gltestProject\t1\Debug\GlfwTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\gltestProject\t1\Debug\GlfwTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\gltestProject\t1\Debug\GlfwTest.lib" /MACHINE:X86 Debug\GlfwTest.obj
+         Debug\stdafx.obj
+     1>LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         GlfwTest.vcxproj -> F:\gltestProject\t1\Debug\GlfwTest.exe
+     1>已完成生成项目“F:\gltestProject\t1\GlfwTest\GlfwTest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.30

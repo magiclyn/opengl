@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/4/27 11:51:26。
+     1>项目“F:\gltestProject\t1\LoadModel\LoadModel.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LoadModel.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt loadObj.cpp
+         loadObj.cpp
+     1>f:\gltestproject\t1\loadmodel\loadobj.cpp(185): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>f:\gltestproject\t1\loadmodel\loadobj.cpp(186): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>f:\gltestproject\t1\loadmodel\loadobj.cpp(190): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>f:\gltestproject\t1\loadmodel\loadobj.cpp(191): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>f:\gltestproject\t1\loadmodel\loadobj.cpp(193): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>f:\gltestproject\t1\loadmodel\loadobj.cpp(194): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>f:\gltestproject\t1\loadmodel\loadobj.cpp(201): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+       Link:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\gltestProject\t1\Debug\LoadModel.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\gltestProject\t1\Debug\LoadModel.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\gltestProject\t1\Debug\LoadModel.lib" /MACHINE:X86 Debug\loadObj.obj
+         Debug\stdafx.obj
+         LoadModel.vcxproj -> F:\gltestProject\t1\Debug\LoadModel.exe
+     1>已完成生成项目“F:\gltestProject\t1\LoadModel\LoadModel.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.61
